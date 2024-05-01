@@ -1,2 +1,2 @@
-# repo-remoto
-repositório de teste do curso versionamento de código DIO, descrição inserida antes do clone do repositório remoto
+# repo-local
+repositório local de teste do curso versionamento de código DIO, descrição inserida depois do clone 
